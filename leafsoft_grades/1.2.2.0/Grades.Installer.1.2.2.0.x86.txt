@@ -1,0 +1,7 @@
+File Information:
+
+Name:		Grades.Installer.1.2.2.0.x86.exe
+Description:	Leafsoft Grades 1.2 Setup
+SHA1:		58A3435A627EAB75ABB46356E574869A446271C1
+CRC32:		1A52DAC5
+Size:		10.9MB
