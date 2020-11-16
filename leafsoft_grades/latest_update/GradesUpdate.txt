@@ -1,0 +1,9 @@
+File Information:
+
+Version:	1.2.2.1
+
+Name:		GradesUpdate.gupd
+Description:	Leafsoft Grades Update File
+SHA1:		30BC1D6C0933CA0BCB9FBD47B030D202FDCCD501
+CRC32:		D4D2F890
+Size:		15.4MB
